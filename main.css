@@ -1,0 +1,59 @@
+body{
+  margin: auto;
+}
+
+header{
+
+  padding-top: 20px;
+  background: rgb(219, 90, 90);
+  height: 30vh;
+}
+
+#head {
+  height: 25vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid rgb(78, 78, 78);
+  border-radius: 200px;
+
+}
+
+.inline{
+  display: inline-block;
+  padding-left: 130px;
+}
+nav a{
+  color:rgb(255, 106, 66);
+  text-decoration: none !important;
+}
+
+.row{
+
+}
+
+.row img{
+
+  transition-delay: 2.0s;
+  transition: 2.0s;
+  margin: 2%;
+  border: 4px solid rgb(219, 90, 90) ;
+  border-radius: 20px;
+  height: 100px;
+  width: 100px;
+}
+
+.row img:hover{
+
+  height:300px;
+  width: 200px;
+}
+
+h1{
+  text-align: center;
+}
+
+
+body{
+  font-family: 'Marck Script', cursive !important;
+}
